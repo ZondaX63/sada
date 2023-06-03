@@ -22,4 +22,4 @@ async def on_voice_state_update(member, before, after):
                 if current_channel:
                     await member.move_to(target_channel)
 
-bot.run('MTExNDE0NjQ2ODUxMzcyMjM4OQ.GtgOGF.0ytY_xLmOzIad27H3H-jQZVjlQ5VQv4yDpXmmE')  # Değiştirmeniz gereken kısım
+bot.run('MTExNDE0NjQ2ODUxMzcyMjM4OQ.GhU2R8.wY3Uw7C0OCnHXQt2SJUKPL17vUULlmBWOCiOPU')  # Değiştirmeniz gereken kısım
